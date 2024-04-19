@@ -59,6 +59,4 @@ I'm committed to lifelong learning and regularly update my skills through online
 
 ## 📫 How to Reach Me
 
-I'm always open to collaborating on projects or discussing innovative ideas. Connect with me here on GitHub or through [LinkedIn](#).
-
-![GitHub followers](https://img.shields.io/github/followers/Domenico?label=follow&style=social) ![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)
+I'm always open to collaborating on projects or discussing innovative ideas. Connect with me here on GitHub.
