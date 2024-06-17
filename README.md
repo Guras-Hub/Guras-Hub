@@ -41,10 +41,10 @@ I am not just a Data Scientist—I am a tech visionary. Driven by an insatiable 
 Harnessing AI and analytics to unveil market insights, secured with blockchain.
 
 ### [Control-Hub](#) 📈
-Employing CNNs and LSTMs to chart the course of market trends with precision.
+Employing CNNs to controll drone in landing with precision.
 
 ### [Flex_Tool](#) 🔗
-Developing DApps that guarantee security and transparency in financial dealings.
+Developing DApps that guarantee Flex_Price and balance in energy market.
 
 ## 📚 My Journey of Continuous Learning
 
